@@ -1,0 +1,2 @@
+local hwids = {}
+return hwids
